@@ -114,7 +114,7 @@
         "C’est un petit boitier muni d’un capteur avec une lentille qui sert à mesurer la noirceur du ciel et à constater l’état de la qualité du ciel nocturne autour de soi.",
       "utility":
         "Vous allez pouvoir évaluer la qualité du ciel nocturne autour de vous (près de chez soi ou lors d’une randonnée nocturne par exemple). Il peut aussi servir à cartographier une zone à partir d’un fond de carte de la commune où vous vous trouvez en réalisant des relevés à plusieurs endroits. Cette activité peut par exemple, être proposée avec des élèves avec un prêt de SQM à utiliser en soirée chez eux avec l’aide des parents.",
-      "image": "./image/sky-quality-meter.png"
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/sky-quality-meter.png"
     },
     {
       "id": 1,
@@ -123,7 +123,7 @@
         "Le luxmètre mesure la quantité de lumière à un endroit donné : l’« éclairement ». Son unité de mesure est le lux (lumière en latin). Le fonctionnement d'un luxmètre repose sur un capteur : celui-ci reçoit un flux de photons qu'il convertit en signal électrique plus ou moins fort en fonction de l'intensité du flux de lumière reçu. ",
       "utility":
         "Il va nous permettre de mesurer la quantité de lumière/éclairement en un point donné, reçue des différentes sources de lumière nous entourant : les définir (lampes, projecteurs, lampadaires, spots, phares de voitures)",
-      "image": "./image/luxmetre.png"
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/luxmetre.png"
     },
     {
       "id": 2,
@@ -132,7 +132,7 @@
         "Les jumelles nous permettent de voir plus loin ! Elles sont un dispositif optique binoculaire grossissant destiné à l'observation d'objets à distance, constitué de deux lunettes symétriques montées en parallèle. La lumière (même faible) entre dans le système optique par les objectifs comportant plusieurs lentilles à l'extrémité de chaque tube.",
       "utility":
         "L’observation des étoiles à l’œil nu est déjà très intéressante : on peut s’émerveiller devant leur foisonnement, distinguer leurs nuances de couleurs bleutées, orangées, voire rougeâtres. On peut aussi s’entraîner à reconnaître les constellations : certaines sont très faciles comme la Grande Ourse, Orion ou Cassiopée.",
-      "image": "./image/jumelles.png"
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/jumelles.png"
     },
     {
       "id": 3,
@@ -141,7 +141,7 @@
         "En papier ou en carton, la carte des étoiles se présente sous la forme d’un disque comportant une carte du ciel sur lequel on ajoute un masque avec une fenêtre évidée. En faisant tourner le disque selon l’heure et la date, on peut retrouver dans la fenêtre les astres, étoiles et planètes, visibles lors de l’observation.",
       "utility":
         "La carte du ciel va permettre d’identifier la partie de ciel visible à une date et un horaire donné. Elle permettra ensuite de reconnaître les astres visibles et de se repérer.",
-      "image": "./image/carte-des-etoiles.jpg"
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/carte-des-etoiles.jpg"
     },
     {
       "id": 4,
@@ -150,7 +150,7 @@
         "L’amplificateur de son est un appareil constitué d’une parabole et d’un casque audio. Il permet d’écouter, voire d’enregistrer, des sons d’une faible intensité à 20 ou 30 mètres de distance et des sons plus forts à une distance de 100 mètres. L’amplificateur va augmenter les sons et les restitue dans le casque.",
       "utility":
         "Cet appareil va nous permettre d’écouter les bruits tout autour de nous, ceux auxquels on ne fait pas forcément attention, ceux que l’on n’entend pas bien. Nous allons découvrir l’un après l’autre le bruit de la vie, la nuit.",
-      "image": "./image/amplificateur-de-son.png"
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/amplificateur-de-son.png"
     }
   ],
   "ressource" : [
@@ -266,42 +266,42 @@
   "memory" : [
     {
       "id": 0,
-      "image": "./image/chauvesouris.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/chauvesouris.png",
       "title": "La chauve-souris",
       "description":
         "Impactées par l'éclairage nocturne, les chauves-souris, ainsi que d'autres espèces, fuient les villes et voient leur territoire de chasse considérablement réduit. Leur reproduction est également impactée."
     },
     {
       "id": 1,
-      "image": "./image/insecte.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/insecte.png",
       "title": "Les insectes",
       "description":
         "Une majorité de nos insectes volants sont nocturnes. Des milliers sont tués chaque nuit par l&apos;éclairage public qui attire irrésistiblement certains insectes : ceux-ci finissent par mourir d&apos;épuisement... D&apos;autres espèces d&apos;insectes nocturnes fuient cette lumière instrusive, ce qui les fait disparaître de la zone géographique éclairée. Cela génère une réaction en chaîne, et c&apos;est toute la biodiversité qui en est perturbée."
     },
     {
       "id": 2,
-      "image": "./image/etoile.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/etoile.png",
       "title": "Le ciel étoilé",
       "description":
         "Apercevoir un soir d'été la beauté de la voie lactée, ou observer les planètes et les constellations avec un télescope... devient impossible dans certaines zones géographiques. Une meilleure gestion de l'éclairage nocturne permet de retrouver nos chères étoiles filantes !"
     },
     {
       "id": 3,
-      "image": "./image/homme.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/homme.png",
       "title": "L'homme",
       "description":
         "Notre horloge biologique est en partie basée sur l'alternance jour/nuit (lumière/obscurité). Trop d'éclairage nocturne perturbe la sécrétion de l'hormone du sommeil (mélatonine), causant insomnies, troubles du sommeil, etc."
     },
     {
       "id": 4,
-      "image": "./image/lampadaire.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/lampadaire.png",
       "title": "Les lampadaires",
       "description":
         "Il est important pour les villes de s'équiper en lampadaires plus adaptés aux besoins réels. Certains sont capables de centraliser la lumière sur un point précis (plûtot que de la diffuser), le choix des ampoules est également important."
     },
     {
       "id": 5,
-      "image": "./image/plante.png",
+      "image": "https://john32313.github.io/api_pollution_lumineuse/image/plante.png",
       "title": "La flore urbaine",
       "description":
         "La flore se voit touchée, notamment lorsqu'elle se développe près d'une source lumineuse. Elle voit son développement accéléré. Les arbres par exemple ont un bourgeonnement précoce, ce qui boulverse toute la biodiversité..."
