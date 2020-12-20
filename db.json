@@ -157,31 +157,31 @@
     {
       "id": 0,
       "title": "Kit pratique pour rallumer les etoiles",
-      "url": "./ressource/kit-pratique-pour-rallumer-les-etoiles.pdf",
+      "url": "https://john32313.github.io/api_pollution_lumineuse/ressource/kit-pratique-pour-rallumer-les-etoiles.pdf",
       "professional": 0
     },
     {
       "id": 1,
       "title": "Le côté obscur des parcs naturels régionaux",
-      "url": "./ressource/le-cote-obscur-des-parcs-naturels-regionaux.pdf",
+      "url": "https://john32313.github.io/api_pollution_lumineuse/ressource/le-cote-obscur-des-parcs-naturels-regionaux.pdf",
       "professional": 1
     },
     {
       "id": 2,
       "title": "Livret pédagogique Monde nocturne",
-      "url": "./ressource/livret-pedagogique-monde-nocturne.pdf",
+      "url": "https://john32313.github.io/api_pollution_lumineuse/ressource/livret-pedagogique-monde-nocturne.pdf",
       "professional": 0
     },
     {
       "id": 3,
       "title": "Guide pour un éclairage de qualité dans le Vercors",
-      "url": "./ressource/guide-pour-un-eclairage-de-qualite-dans-le-vercors.pdf",
+      "url": "https://john32313.github.io/api_pollution_lumineuse/ressource/guide-pour-un-eclairage-de-qualite-dans-le-vercors.pdf",
       "professional": 1
     },
     {
       "id": 4,
       "title": "Les nuits de Noe",
-      "url": "./ressource/nuits-de-noe-pour-la-biodiversite-nocturne.pdf",
+      "url": "https://john32313.github.io/api_pollution_lumineuse/ressource/nuits-de-noe-pour-la-biodiversite-nocturne.pdf",
       "professional": 1
     },
     {
